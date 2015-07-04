@@ -16,3 +16,9 @@ Version: 1.0
 .nav-menu li a {
 	color: #fff;
 }
+
+#uptop {
+	margin: 0;	
+	border-bottom: 10px #220e10 solid;
+	text-align: center;
+}
